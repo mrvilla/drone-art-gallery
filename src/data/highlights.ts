@@ -22,7 +22,7 @@ export const highlights: Highlight[] = [
     id: 'artist-installations',
     title: 'Artist Installations',
     description: 'Immersive close-ups and movement around individual works',
-    coverSrc: '/public/expo-02-Cover.jpg?auto=compress&cs=tinysrgb&w=800',
+    coverSrc: '/expo-02-Cover.jpg?auto=compress&cs=tinysrgb&w=800',
     alt: 'Artist Installations',
     videoSrc: '/expo-02.mp4',
     duration: '2:13'
