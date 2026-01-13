@@ -9,15 +9,15 @@ export type Highlight = {
 };
 
 export const highlights: Highlight[] = [
-  // {
-  //   id: 'opening-day',
-  //   title: 'Opening Day Flyover',
-  //   description: 'The venue from above, guests arriving, setup in motion',
-  //   coverSrc: 'https://images.pexels.com/photos/442576/pexels-photo-442576.jpeg?auto=compress&cs=tinysrgb&w=800',
-  //   alt: 'Opening Day Flyover',
-  //   videoSrc: '/expo-02.mp4',
-  //   duration: '0:38'
-  // },
+  {
+    id: 'opening-day',
+    title: '25 Artists. Haus der Visionäre.',
+    description: 'A lateral movement showcasing the works of twenty-five artists at Haus der Visionäre.',
+    coverSrc: '/expo-01-Cover.jpg?auto=compress&cs=tinysrgb&w=800',
+    alt: '25 Artists. Haus der Visionäre.',
+    videoSrc: '/expo-01.mp4',
+    duration: '1:45'
+  },
   {
     id: 'artist-installations',
     title: 'Artist Installations',
