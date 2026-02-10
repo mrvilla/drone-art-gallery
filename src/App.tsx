@@ -33,6 +33,13 @@ function App() {
         <div className="absolute inset-0 bg-[url('/expo-cover.jpg?auto=compress&cs=tinysrgb&w=1920')] bg-cover bg-center opacity-85"></div>
 
         <div className="relative z-20 text-center px-6 max-w-5xl">
+          <div className="flex items-center justify-center mb-6">
+          <img 
+            src="/flywithme.svg" 
+            alt="Fly With Evilla Logo" 
+            className="w-10 h-10 text-emerald-400" 
+          />
+          </div>
           <h1 className="font-light text-6xl md:text-8xl tracking-wider mb-6 animate-fade-in">
             The Ürban Art
           </h1>
